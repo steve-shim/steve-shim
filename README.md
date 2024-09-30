@@ -1,4 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=000048&height=150&text=SeungHyukShim&animation=twinkling&fontSize=75&fontColor=ffffff)
+
 
 <!--
 **steve-shim/steve-shim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
